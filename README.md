@@ -27,11 +27,8 @@ playwright
 tailwind 
 
 Install it:  
-`npm install -D tailwindcss postcss autoprefixer`
+`npm install tailwindcss @tailwindcss/vite`
 
-Initialize configuration files:  
-`npx tailwindcss init -p`
-- This creates a tailwind.config.js and postcss.config.js file.  
 
 # Animations 
 
